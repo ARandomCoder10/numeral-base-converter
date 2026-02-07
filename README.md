@@ -16,3 +16,7 @@ Written while learning programming constructs and code standards, resulting in l
 - Can convert one number to multiple base representations
 - Displayed formal names for each numeral base in the output e.g. nonary for base 9
 - Added superscript annotations for each numeral base
+
+## Version Control Note
+This repository includes early commits I made while I was learning how to integrate GitHub with my PyCharm application.
+My commit structure and practices have since improved as I gain more confidence & experience using GitHub.
